@@ -23,4 +23,4 @@ Built entirely with pure Node.js, this project demonstrates how to handle HTTP r
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/boubacarsow-dev/git-info//
